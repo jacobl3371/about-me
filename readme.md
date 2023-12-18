@@ -13,14 +13,18 @@
 Schedule
 
 1. Literature
-2. Big Histtory Project Honors
+2. Big History Project Honors
 3. Chemistry
 4. AP Global History
 5. Spanish 2
 6. SEP
 7. Algebra 2
 8. Lunch
-9. <b><i>(Tues./Thurs.)</i></b> Weight Training
+9. <b><i>(Tues./Thurs. only)</i></b> Weight Training
+
+Portfolio
+
+[jacobl3371 github](https://jacobl3371.github.io/)
 
 
 
